@@ -32,7 +32,6 @@ my hyprland configuration :p (p.s ignore the mess.)
 
 # todo
 
-- 
 - fix mako
 - add PWA stuff
 - split hyprland stuf into modules
