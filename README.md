@@ -11,7 +11,6 @@ my hyprland configuration :p (p.s ignore the mess.)
 - mako (broken i think .)
 - matugen
 - waybar
-- vscodium
 
 # other things u might want:
 
