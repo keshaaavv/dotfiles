@@ -27,7 +27,8 @@
 2. if you have git, you can do `git clone https://github.com/keshaaavv/dotfiles` to clone the repo.
 3. drag and drop into home directory (`cd ~`)
 4. tweak keybinds/settings in `~/.config/hypr/hyprland.conf` to ur liking
-5. IF YOU USE LIMINE - go to the limine folder and follow the instructions in the .txt
+5. if u want a custom ascii logo for fastfetch, you can put it in `~/.config/fastfetch/logo.txt`
+6. IF YOU USE LIMINE - go to the limine folder and follow the instructions in the .txt
 
 # note 
 
