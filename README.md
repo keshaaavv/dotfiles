@@ -9,6 +9,7 @@ my hyprland configuration :p (p.s ignore the mess.)
 - hyprland
 - hyprlock
 - kew
+- limine
 - mako
 - matugen
 - waybar
