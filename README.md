@@ -46,7 +46,7 @@
 
 ### additional credits:
 
-fastfetch dotfiles from DHH
-hyprland animations from HyDE project
+- fastfetch dotfiles from DHH
+- hyprland animations from HyDE project
 
 ## if u like my dots plz star :] ty
