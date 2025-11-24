@@ -24,7 +24,7 @@ my hyprland configuration :p (p.s ignore the mess.)
 
 1. make sure all dependencies are installed
 2. drag and drop into `~/.config`
-3. tweak keybinds/settings in `hypr/hyprland.conf` to ur liking
+3. tweak keybinds/settings in `~/.config/hypr/hyprland.conf` to ur liking
 4. IF YOU USE LIMINE - go to the limine folder and follow the instructions in the .txt
 
 # note 
