@@ -16,16 +16,19 @@ my hyprland configuration :p (p.s ignore the mess.)
 
 # other things u might want:
 
+- git (to clone the repo)
 - zen browser (super + shift + b)
 - btop (super + shift + r)
 - grim/slurp (super + shift + s) / super + ctrl s)
 
+
 # usage:
 
 1. make sure all dependencies are installed
-2. drag and drop into home directory (`cd ~`)
-3. tweak keybinds/settings in `~/.config/hypr/hyprland.conf` to ur liking
-4. IF YOU USE LIMINE - go to the limine folder and follow the instructions in the .txt
+2. if you have git, you can do `git clone https://github.com/keshaaavv/dotfiles` to clone the repo.
+3. drag and drop into home directory (`cd ~`)
+4. tweak keybinds/settings in `~/.config/hypr/hyprland.conf` to ur liking
+5. IF YOU USE LIMINE - go to the limine folder and follow the instructions in the .txt
 
 # note 
 
