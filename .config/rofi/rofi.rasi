@@ -1,0 +1,91 @@
+/**
+ * fork of rofi dmenu theme :3
+ * User: qball + keshaaavv
+ */
+
+* {
+    primary: #ffb2bd;
+    primary-fixed: #ffd9dd;
+    primary-fixed-dim: #ffb2bd;
+    on-primary: #561d29;
+    on-primary-fixed: #3b0715;
+    on-primary-fixed-variant: #72333f;
+    primary-container: #72333f;
+    on-primary-container: #ffd9dd;
+    secondary: #e5bdc1;
+    secondary-fixed: #ffd9dd;
+    secondary-fixed-dim: #e5bdc1;
+    on-secondary: #43292d;
+    on-secondary-fixed: #2c1519;
+    on-secondary-fixed-variant: #5c3f43;
+    secondary-container: #5c3f43;
+    on-secondary-container: #ffd9dd;
+    tertiary: #eabf90;
+    tertiary-fixed: #ffddba;
+    tertiary-fixed-dim: #eabf90;
+    on-tertiary: #452b07;
+    on-tertiary-fixed: #2b1700;
+    on-tertiary-fixed-variant: #5f411c;
+    tertiary-container: #5f411c;
+    on-tertiary-container: #ffddba;
+    error: #ffb4ab;
+    on-error: #690005;
+    error-container: #93000a;
+    on-error-container: #ffdad6;
+    surface: #191112;
+    on-surface: #f0dee0;
+    on-surface-variant: #d6c2c3;
+    outline: #9f8c8e;
+    outline-variant: #524345;
+    shadow: #000000;
+    scrim: #000000;
+    source-color: #632633; 
+    inverse-surface: #f0dee0;
+    inverse-on-surface: #382e2f;
+    inverse-primary: #8e4956;
+    surface-dim: #191112;
+    surface-bright: #413738;
+    surface-container-lowest: #140c0d;
+    surface-container-low: #22191a;
+    surface-container: #261d1e;
+    surface-container-high: #312829;
+    surface-container-highest: #3d3233;
+    
+    background-color:      @scrim;
+    border-color:         @source-color;
+    text-color:           @source-color; 
+    font:            "Ark Pixel 16px M ja 16px";
+}
+window {
+    anchor:     north;
+    location:   north;
+    width:      50%;
+    padding:    7px;
+    children:   [ horibox ];
+    border: 2px; 
+}
+horibox {
+    orientation: horizontal;
+    children:   [ prompt, entry, listview ];
+}
+listview {
+    layout:     horizontal;
+    spacing:    5px;
+    lines:      100;
+}
+entry {
+    expand:     false;
+    width:      10em;
+}
+element {
+    padding: 0px 2px;
+}
+element selected {
+    background-color: @scrim;
+    text-color:  @primary;
+}
+
+element-text, element-icon {
+  background-color: inherit;
+  text-color: inherit;
+}
