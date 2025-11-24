@@ -1,5 +1,4 @@
-# .config
-my hyprland configuration :p (p.s ignore the mess.)
+# my hyprland configuration :p (p.s ignore the mess.)
 
 .config files for:
 
@@ -43,3 +42,5 @@ my hyprland configuration :p (p.s ignore the mess.)
 - nvim config
 - app launcher
 - install script (!?)
+
+## if u like my dots plz star :] ty
