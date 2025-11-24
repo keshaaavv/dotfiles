@@ -28,21 +28,21 @@ config files for:
 3. drag and drop into home directory (`cd ~`)
 4. tweak keybinds/settings in `~/.config/hypr/hyprland.conf` to ur liking
 5. if u want a custom ascii logo for fastfetch, you can put it in `~/.config/fastfetch/logo.txt`
-6. IF YOU USE LIMINE - go to the limine folder and follow the instructions in the .txt
+
 
 # note 
 
 - not all colors use matugen, you may have to manually tweak some; especially in waybar
-
+- IF YOU USE LIMINE - go to the limine folder and follow the instructions in the .txt
+  
 # todo
 
-- add PWA stuff
 - split hyprland stuf into modules
 - btop config
 - tmux config
 - nvim config
 - app launcher
-- install script (!?)
+- install script (maybe!?)
 
 ### additional credits:
 
