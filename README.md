@@ -1,4 +1,4 @@
-# my hyprland configuration :p (p.s ignore the mess.)
+# my hyprland configuration :p
 
 .config files for:
 
