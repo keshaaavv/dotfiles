@@ -11,6 +11,7 @@ config files for:
 - limine
 - mako
 - matugen
+- rofi
 - waybar
 - gtk 3 & 4 (literally just dark mode)
 
@@ -42,7 +43,6 @@ config files for:
 - btop config
 - tmux config
 - nvim config
-- app launcher
 - install script (maybe!?)
 
 ### additional credits:
