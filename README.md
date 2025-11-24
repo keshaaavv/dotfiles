@@ -8,12 +8,12 @@ config files for:
 - hyprland _; tiling wayland compositer_
 - hyprlock _; lock plugin for hyprland_
 - kew _; shell music player_
-- limine _; bootloade_r
+- limine _; bootloader_
 - ly _; login manager_
 - mako _; notification daemon_
 - matugen _; color generator_
 - rofi _; app launcher_
-- waybar _; wayland taskbar _
+- waybar _; wayland taskbar_
 - gtk 3 & 4 (literally just dark mode) _; other GUIs._
 
 # other things u might want:
