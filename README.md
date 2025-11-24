@@ -43,7 +43,7 @@ config files for:
 - btop config
 - tmux config
 - nvim config
-- install script (maybe!?)
+- post-install script (maybe!?)
 
 ### additional credits:
 
