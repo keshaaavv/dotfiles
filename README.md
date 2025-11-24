@@ -12,6 +12,7 @@ config files for:
 - mako
 - matugen
 - waybar
+- gtk 3 & 4 (literally just dark mode)
 
 # other things u might want:
 
