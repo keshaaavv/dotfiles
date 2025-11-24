@@ -31,10 +31,10 @@ my hyprland configuration :p (p.s ignore the mess.)
 
 # todo
 
-- fix mako
 - add PWA stuff
 - split hyprland stuf into modules
 - btop config
 - tmux config
 - nvim config
 - app launcher
+- install script (!?)
