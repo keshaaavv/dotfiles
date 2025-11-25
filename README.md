@@ -2,7 +2,7 @@
 
 
 
-# my hyprland configuration :p
+# my hyprland configuration 
 
 config files for:
 
