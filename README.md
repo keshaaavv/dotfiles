@@ -34,6 +34,7 @@ config files for:
 4. drag and drop into home directory (`cd ~`)
 5. tweak keybinds/settings in `~/.config/hypr/hyprland.conf` to ur liking
 6. if u want a custom ascii logo for fastfetch, you can put it in `~/.config/fastfetch/logo.txt`
+7. select "kmenu" in rofi theme selector
 
 
 # note 
